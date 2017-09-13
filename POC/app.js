@@ -1,0 +1,1 @@
+require('./services/shopify.service.server');
